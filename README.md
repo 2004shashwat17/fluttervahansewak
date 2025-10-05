@@ -253,11 +253,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support and queries, contact:
 - Email: support@vahansewak.com
 - Phone: +91-XXXX-XXXX
-
-## Screenshots
-
-[Add app screenshots here]
-
 ---
 
 Made with ❤️ for Delhi NCR's vehicle owners and mechanics.
